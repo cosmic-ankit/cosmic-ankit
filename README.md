@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Jain</h1>
 <h3 align="center">CS Geek</h3>
 
-<img src="https://media0.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47v75nhra7waa8dp2rx9f6x0zgwiic5zyg8gvbehzo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="500" height="600">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYweGl0bGprdTN0MTE0YndxNDhjbW82c2Q2NjZ4bHk1MWIzdW1jYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" height="400">
 
 
 
