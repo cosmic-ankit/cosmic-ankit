@@ -4,7 +4,7 @@
 , I'm Ankit Jain</h1>
 <h3 align="center">CS Geek</h3>
 
-<img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Coding" width="900" height="300">
+<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" alt="Coding" width="900" height="300">
 
 
 
