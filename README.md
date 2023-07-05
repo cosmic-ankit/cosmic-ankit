@@ -1,9 +1,9 @@
-https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif
+
 
 <h1 align="center">Hi 👋, I'm Ankit Jain</h1>
 <h3 align="center">CS Geek</h3>
 
-<img src="https://media1.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=6c09b952fsi3az2ywwcqymervi4svhz3o7d5l7plpb716p57&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="700" height="400">
+<img src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif" alt="Coding" width="700" height="400">
 
 
 
