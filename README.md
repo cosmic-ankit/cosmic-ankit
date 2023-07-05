@@ -4,7 +4,7 @@
 , I'm Ankit Jain</h1>
 <h3 align="center">CS Geek</h3>
 
-<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" alt="Coding" width="900" height="300">
+<img src="https://media0.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47v75nhra7waa8dp2rx9f6x0zgwiic5zyg8gvbehzo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="900" height="300">
 
 
 
