@@ -12,7 +12,7 @@ https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif
 
 
 
-- 💬 Ask me about **ReactJS,NodeJS,MongoDB,Javascript,ExpressJS**
+- 💬 Ask me about **ReactJS, NodeJS, MongoDB, Javascript, ExpressJS**
 
 - 📫 How to reach me **cosmicankit3848@gmail.com**
 
