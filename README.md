@@ -1,5 +1,5 @@
 <h1 align="center">
-  I AM the One Who Codes
+  I AM THE ONE WHO CODES
 </h1>
 
 <p align="left">
