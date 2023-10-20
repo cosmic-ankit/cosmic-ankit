@@ -27,3 +27,8 @@ Wubba Lubba Dub-Dub</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmic-ankit&show_icons=true&locale=en&layout=compact" alt="cosmic-ankit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-ankit&" alt="cosmic-ankit" /></p>
+
+
+[![An image of @cosmicankit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cosmicankit)](https://holopin.io/@cosmicankit)
+
+
